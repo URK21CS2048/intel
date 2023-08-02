@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Wed Aug 02 10:36:03 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : slow_division
+Top-level Entity Name : slow_division
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Power Models : Final
+Total Thermal Power Dissipation : 420.09 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 411.23 mW
+I/O Thermal Power Dissipation : 8.86 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
